@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/file/d/1qZPJg3cxWkN0MyfIanEbeS4cMcejSKNO/view?usp=drive_link" alt="banner profile" />
+  <img src="Ashley cabral.png" alt="banner profile" />
 </p>
 
 <p align="center">
@@ -14,19 +14,25 @@
 	</a>
 </p>
 
-<img src="./assets/lineBar.png" width="100%" height="8px"/>
+<img src="lineBar.png" width="100%" height="8px"/>
 
-## Skills 
-  <div style="display: flex"><br>
+
+
+<h1> Skills </h1>
+  <div align="center"><br>
   <img align="center" alt="Ash-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ash-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ash-JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+   <img align="center" alt="Ash-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+   <img align="center" alt="Ash-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Ash-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
    <img align="center" alt="Ash-GIT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </div>
  
 
  
-<img src="./assets/lineBar.png" width="100%" height="8px"/>
+<img src="lineBar.png" width="100%" height="8px"/>
+
 <h1><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;  Minhas Contribuições </h1>
 
 <p align="center">
@@ -36,7 +42,7 @@
 </p>
 
 
-<img src="./assets/lineBar.png" width="100%" height="8px"/>
+<img src="lineBar.png" width="100%" height="8px"/>
 
 <div align="center">
   <a href="https://github.com/ashleycabral">
