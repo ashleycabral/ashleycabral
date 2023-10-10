@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="Ashley cabral.png" alt="banner profile" />
-</p>
+
+<div align="center" margin-top="">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=120&section=header"/>
+
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e22ce&size=30&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Ashley+Cabral;I'm+a+front-end+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+</div>
 
 <p align="center">
 	<a href="mailto:ashleycabral39@gmail.com">
@@ -18,7 +22,7 @@
 
 
 
-<h1> Skills </h1>
+<h1> Minhas Skills </h1>
   <div align="center"><br>
   <img align="center" alt="Ash-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ash-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -33,24 +37,20 @@
  
 <img src="lineBar.png" width="100%" height="8px"/>
 
+
 <h1><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;  Minhas Contribuições </h1>
 
-<p align="center">
- <a href="https://git.io/streak-stats">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=ashleycabral&theme=dark&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600" alt="GitHub Streak" />
- </a>
-</p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashleycabral&bg_color=gradientline=7e22ce&point=7e22c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <img src="lineBar.png" width="100%" height="8px"/>
 
-<div align="center">
-  <a href="https://github.com/ashleycabral">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashleycabral&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashleycabral&layout=compact&langs_count=7&theme=dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ashleycabral&show_icons=true&count_private=true&hide_border=true&title_color=7e22ce&icon_color=7e22ce&text_color=c9d1d9&bg_color=0d1117" alt="Riany Mello github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashleycabral&layout=compact&hide_border=true&title_color=7e22ce&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=150&width=100%&section=footer" width="100%"/>
 
   
 
