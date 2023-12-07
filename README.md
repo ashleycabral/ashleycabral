@@ -18,15 +18,18 @@
 	</a>
 </p>
 
-<img src="lineBar.png" width="100%" height="8px"/>
+
 
 
 
 <h1> Minhas Skills </h1>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,c,mysql" /><br>
+
+
+
+<div  align="center">
+    <img  src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mysql" /><br>
 </div>
 <br>
 
@@ -36,7 +39,7 @@
 <img src="lineBar.png" width="100%" height="8px"/>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ashleycabral&show_icons=true&count_private=true&hide_border=true&title_color=7e22ce&icon_color=7e22ce&text_color=c9d1d9&bg_color=0d1117" alt="Riany Mello github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ashleycabral&show_icons=true&count_private=true&hide_border=true&title_color=7e22ce&icon_color=7e22ce&text_color=c9d1d9&bg_color=0d1117" alt="Ashley Cabral github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashleycabral&layout=compact&hide_border=true&title_color=7e22ce&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
